@@ -1,0 +1,11 @@
+(
+  name: "AutoPan",
+  summary: "A pseudo UGen for an autopanner",
+  version: "0.001",
+  schelp: "AutoPan.schelp",
+  dependencies: nil,
+  license: "GNU GPL v3.0",
+  copyright: "madskjeldgaard",
+  ext_dependency: nil,
+  url: "https://github.com/madskjeldgaard/autopan"
+)

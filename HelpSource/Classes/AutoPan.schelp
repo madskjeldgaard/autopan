@@ -1,0 +1,39 @@
+TITLE:: AutoPan
+summary:: A pseudo UGen for an autopanner
+categories:: Extensions
+related:: Classes/Quarks
+
+DESCRIPTION::
+A pseudo UGen for an autopanner
+
+CLASSMETHODS::
+
+METHOD:: new
+(describe method here)
+
+ARGUMENT:: arga
+(describe argument here)
+
+ARGUMENT:: argb
+(describe argument here)
+
+returns:: (describe returnvalue here)
+
+INSTANCEMETHODS::
+
+METHOD:: init
+(describe method here)
+
+ARGUMENT:: arga
+(describe argument here)
+
+ARGUMENT:: argb
+(describe argument here)
+
+returns:: (describe returnvalue here)
+
+EXAMPLES::
+
+code::
+// some example code
+::
